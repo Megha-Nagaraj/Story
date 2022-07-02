@@ -1,1 +1,3 @@
 This is a lesson on version control.
+Changing this text inside alien-branch, 
+To check how branching works.
